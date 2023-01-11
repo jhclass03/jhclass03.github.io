@@ -1,2 +1,2 @@
-# blog_test
-평가시험 공간
+# blog_app
+ test blog app
