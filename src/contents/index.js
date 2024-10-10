@@ -1,6 +1,6 @@
 
 
-export contst headerNav=[
+export const headerNav=[
   { title:"intro", url:"#intro" },
   { title:"ability", url:"#ability" },
   { title:"site", url:"#site" },
